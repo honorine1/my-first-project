@@ -149,6 +149,19 @@ display:flex;
 flex-direction: row;
 width:50%;
 height:150px;
+padding-left: -50px;
+}
+#img2 h3{
+    padding-left: 250px;
+}
+#img1 h3{
+    padding-left: 250px;
+}
+#img3 h3{
+    padding-left: 250px;
+}
+#img4 h3{
+    padding-left: 250px;
 }
 
 /* #projects img{
