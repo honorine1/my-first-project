@@ -12,16 +12,17 @@ To access my portfolio use this link:
 
 please contact me whenever you meet a problem with my Website via:
 
-|Email               | uwurukundoh@gmail.com |
-                     |                       |
-| phone              |0784478114             | 
-|                    |                       |
-| facebook           |uwurukundo Honorine    |
-|                    |                       |
-| twitter            |honoryne               | 
-|                    |                       |
 
+
+|Email               | uwurukundoh@gmail.com |
+|--------------------|-----------------------|
+| phone              |0784478114             |
+|--------------------|-----------------------|
+|facebook            |uwurukundo Honorine    |
+|--------------------|-----------------------|
+|twitter             |honoryne               |  
+|--------------------|-----------------------|
 
 License
 
-&Copyright 2019 UWURUKUNDO Honorine.
+Copyright (c) 2019 UWURUKUNDO Honorine.
