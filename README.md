@@ -1,9 +1,10 @@
-# Author: HOnorine UWURUKUNDO
+# Author: Honorine UWURUKUNDO
 ## My Portfolio Website
 #### This web is designed for followers to know more about me.It was created on 12th JUly 2019 ##### My website have a content divided in 4 sections: .home .aboutme .projects .contact. Each and every section contain required information on me.So it is not finished yet I will be updating it eventually.
 
 ## Setup/Installation Requirements
 To access my portfolio use this link:
+https://honorine1.github.io/my-first-project
 
 ## Technologies Used:
 ### This Portfolio is designed using:CSS and HTML
