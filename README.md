@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 #### This web is designed for followers to know more about me.It was created on 12th JUly 2019 ##### My website have a content divided in 4 sections: .home .aboutme .projects .contact. Each and every section contain required information on me.So it is not finished yet I will be updating it eventually.
 
 ## Setup/Installation Requirements
@@ -15,14 +14,10 @@ please contact me whenever you meet a problem with my Website via:
 |Email               | uwurukundoh@gmail.com |
 |--------------------|-----------------------|
 | phone              |0784478114             |
-|--------------------|-----------------------|
 |facebook            |uwurukundo Honorine    |
-|--------------------|-----------------------|
 |twitter             |honoryne               |  
-|--------------------|-----------------------|
+
 
 License
 
-####### Copyright (c) 2019 UWURUKUNDO Honorine.
-=======
->>>>>>> 751972e40a021f11619b57e47b76a1900cc7815d
+Copyright (c) 2019 UWURUKUNDO Honorine.
