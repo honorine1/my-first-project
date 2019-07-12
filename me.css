@@ -56,6 +56,15 @@ p{
     padding-left: 150px;
     padding-right: 150px;
 }
+#contact{
+    padding-left: 400px;
+    height:100px;
+    padding-top:20px;
+
+}
+#contact h2{
+    float:left;
+}
 .footer{
     height:50px;
     background-color: #1E2176;
@@ -77,6 +86,7 @@ h2{
 .hosted-project li a{
     color:black;
 }
+
 /*.section{
   color:yellow;
     float:left;
