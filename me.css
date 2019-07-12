@@ -163,18 +163,6 @@ padding-left: -50px;
 #img4 h3{
     padding-left: 250px;
 }
-
-/* #projects img{
-    width:200px;
-    height:150px;
-    
-} */
-/*.section{
-  color:yellow;
-    float:left;
-    padding:10px;
-    background-color:#2E0505
-    height:10px;
-    text-align:center;
-    font-family:transit;  
-}*/
+#contact td{
+    font-family:bold;
+}
