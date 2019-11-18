@@ -8,7 +8,7 @@
 .part1{
     /* background-image: url("https://www.pexels.com/photo/book-computer-design-development-326424/"); */
 
-    background-image: url("https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-image: url("https://images.pexels.com/photos/682933/pexels-photo-682933.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
     background-repeat: no-repeat;
     /* background-position: right top; */
     background-attachment: fixed;
@@ -21,7 +21,7 @@
     filter: blur(1px); */
     border-radius: 12px;
 }
-.part > h1{
+h1{
     color:white;
 }
 .part11{
@@ -45,7 +45,7 @@ body{
     font-family: fantasy;
 }
 #header h1{
-    color: #1E2176;
+    color: #A05505;
     text-align:center;
     background-color: white;
     padding-bottom: 10px;
@@ -67,23 +67,25 @@ body{
 }
 
 ul a{
-    color:black;
+    color:white;
     
 }
-a:hover{
+ul a:hover{
     color:yellow;
 }
 #nav ul li{
         display: inline;
+        
 }
 ul{
     text-decoration: none;
     list-style-type: none;
     text-align: center;
+    
 }
 .container h3{
     
-   color:#1E2176;
+   color:#A05505;
     padding:10px;
     height:20px;
     font-family:transit;
@@ -101,8 +103,8 @@ p{
 }
 #contact{
     padding-left: 400px;
-    height:100px;
-    padding-top:20px;
+    height:250px;
+    padding-top:50px;
 
 }
 #contact h2{
@@ -110,14 +112,14 @@ p{
 }
 .footer{
     height:50px;
-    background-color: #1E2176;
+    background-color: #A05505;
     text-align: center;
     color:white;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 h2{
-    color: #1E2176;
+    color: #A05505;
     text-align: center;
 }
 .hosted-project ol{
@@ -134,25 +136,34 @@ h2{
 }
 #aboutme{
     padding-bottom: 40px;
+
+}
+#aboutme h3{
+padding-bottom: 30px;
 }
 #skills{
     padding-left: 40px;
-    background-image: url("https://cdn.lynda.com/courses/802839-636939805160774552_270x480_thumb.jpg");
+    margin-bottom:10px;
+    background-image: url("https://avante.biz/wp-content/uploads/Windows-7-Professional-Wallpapers-HD/Windows-7-Professional-Wallpapers-HD-007.jpg");
     background-repeat:no repeat;
     background-size: cover;
-    height: 500px;
+    height: 600px;
     width:97%;
+    color:#A05505;
 }
 
 #skills h1{
     
-    padding-top: 200px;
-    color:#1E2176;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    text-align: center;
+    /* padding-left:20px; */
+    color:#A05505;
 }
 
 #skills table{
         border-collapse: collapse;
-        width: 50%;
+        width: 80%;
         padding-right: 200px;
        padding-bottom: 300px;
       }
@@ -176,22 +187,29 @@ h2{
        display: flex;
        padding-right: 100px;
        justify-content: flex-end;
-}
-.projects{
-    background-color:#D3D3D3;
+       padding-bottom: 30px;
+    /* background-color:#D3D3D3; */
     height:500px
 }
+#images1{
+    width:300px;
+    height:200px;
+}
 .projects h1{
-    color: #1E2176;
+    color:#A05505;
     text-align:center;
     padding-top: 20px;
     padding-bottom: 10px;
 }
+.row h3{
+padding-top:20px;
+
+}
 .images{
 display:flex;
 flex-direction: row;
-width:50%;
-height:150px;
+width:20%;
+height:50px;
 padding-left: -50px;
 }
 #img2 h3{
